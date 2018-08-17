@@ -1,7 +1,10 @@
-# Developer Experience: Why some APIs suck (and yours might too)
+# DOOM: John Romero's programming advice from 25 years ago
 
-My presentation on API DX for APIOps meetup at Futurice, Tampere, May 2017
+My presentation on for Friday tekkiwartti at Futurice, Tampere, August 2018
 
-View it here: [preview](https://anttiviljami.github.io/why-some-apis-suck/#/)
+Covers the principles laid out in John Romero's talk "The Early Days of id Software". Summarised here:
 
-[Watch the talk on YouTube](https://youtu.be/scIX9onlwis?t=1h39m37s)
+https://github.com/anttiviljami/romero-programming-principles
+
+View it here: [preview](https://anttiviljami.github.io/romero-principles-presentation/#/)
+
